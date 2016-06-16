@@ -1,0 +1,30 @@
+{
+  "name": "express-sample-code5",
+  "version": "0.0.1",
+  "description": "Express MVC sample code #5.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mamoru Hashimoto",
+  "license": "MIT",
+  "dependencies": {
+    "connect-redis": "^3.0.2",
+    "express-session": "^1.13.0",
+    "express": "^4.13.4",
+    "redis": "^2.6.0-2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S035779/expressApp5.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/S035779/expressApp5/issues"
+  },
+  "homepage": "https://github.com/S035779/expressApp5#readme"
+}
